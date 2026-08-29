@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj": {}
+    "c:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj": {}
   },
   "projects": {
-    "C:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj": {
+    "c:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
+        "projectUniqueName": "c:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
         "projectName": "TicketPriceCalculator",
-        "projectPath": "C:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
+        "projectPath": "c:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
         "packagesPath": "C:\\Users\\Leonard\\.nuget\\packages\\",
-        "outputPath": "C:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\obj\\",
+        "outputPath": "c:\\dcit318-assignment1-22256820\\TicketPriceCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonard\\AppData\\Roaming\\NuGet\\NuGet.Config"
